@@ -1,3 +1,10 @@
+Using base path: C:\Users\Chirag\Desktop\data1
+Using model: baseline
+HUB Perplexity:  1519.122592034621
+WER Baselines:
+  Best Path:  0.0
+  Worst Path: 0.21014009339559706
+  Avg Path:   0.11927055936159012
 GUESS:	AM: -2.66E03	LM: -8.17E01	Total: -2.75E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 GOLD:	AM: -2.66E03	LM: -8.17E01	Total: -2.75E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 GUESS:	AM: -2.42E03	LM: -1.07E02	Total: -2.53E03	[that, 's, might, lift, the, yen, which, has, been, moving, in, tandem, with, the, market, recently]
@@ -200,3 +207,5 @@ GUESS:	AM: -2.13E03	LM: -9.49E01	Total: -2.22E03	[yesterday, many, corn, futures
 GOLD:	AM: -2.13E03	LM: -9.41E01	Total: -2.22E03	[yesterday, many, corn, futures, prices, plunged, by, their, permissible, daily, limits]
 GUESS:	AM: -9.69E02	LM: -4.55E01	Total: -1.01E03	[the, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -4.99E01	Total: -1.02E03	[she, could, n't, be, reached, for, comment]
+HUB Word Error Rate: 0.0913942628418946
+Generated Sentences:
