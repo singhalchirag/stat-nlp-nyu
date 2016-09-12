@@ -300,5 +300,3 @@ GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures,
 
 GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
-HUB Word Error Rate: 0.06871247498332221
-Generated Sentences:
