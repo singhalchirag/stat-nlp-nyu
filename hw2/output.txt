@@ -1,3 +1,26 @@
+Using base path: C:\Users\Chirag\Desktop\data2
+Using model: maxent
+Testing on: validation
+[LBFGSMinimizer.minimize] Iteration 0 ended with value 36964.410756
+[LBFGSMinimizer.minimize] Iteration 1 ended with value 34753.313576
+[LBFGSMinimizer.minimize] Iteration 2 ended with value 33818.692205
+[LBFGSMinimizer.minimize] Iteration 3 ended with value 31590.466445
+[LBFGSMinimizer.minimize] Iteration 4 ended with value 27950.413339
+[LBFGSMinimizer.minimize] Iteration 5 ended with value 27342.877149
+[LBFGSMinimizer.minimize] Iteration 6 ended with value 26842.260717
+[LBFGSMinimizer.minimize] Iteration 7 ended with value 26121.946443
+[LBFGSMinimizer.minimize] Iteration 8 ended with value 24900.201514
+[LBFGSMinimizer.minimize] Iteration 9 ended with value 24888.326813
+[LBFGSMinimizer.minimize] Iteration 10 ended with value 24018.797148
+[LBFGSMinimizer.minimize] Iteration 11 ended with value 23875.707014
+[LBFGSMinimizer.minimize] Iteration 12 ended with value 23730.144217
+[LBFGSMinimizer.minimize] Iteration 13 ended with value 23469.298003
+[LBFGSMinimizer.minimize] Iteration 14 ended with value 23435.736793
+[LBFGSMinimizer.minimize] Iteration 15 ended with value 23088.713853
+[LBFGSMinimizer.minimize] Iteration 16 ended with value 23032.146051
+[LBFGSMinimizer.minimize] Iteration 17 ended with value 22778.905391
+[LBFGSMinimizer.minimize] Iteration 18 ended with value 22737.735125
+[LBFGSMinimizer.minimize] Iteration 19 ended with value 22677.720164
 Example: Abbokinase guess=place gold=drug confidence=0.4815424646970717
 Example: Acid Control guess=company gold=drug confidence=0.5394169336532982
 Example: Adrenalin Chloride guess=person gold=drug confidence=0.4756086329510524
@@ -1040,3 +1063,4 @@ Example: Van Kampen Florida Quality Municipal Trust guess=movie gold=company con
 Example: Van Kampen New York Quality Municipal Trust guess=movie gold=company confidence=0.7862995275405344
 Example: Washington Gas Light Co. guess=person gold=company confidence=0.5822410340186744
 Example: Wiley John & Sons Inc. guess=person gold=company confidence=0.6224170433979157
+Accuracy: 0.6398202557898376
